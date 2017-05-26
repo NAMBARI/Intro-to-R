@@ -9,7 +9,7 @@ Most likley if you are here on this page you have! One of the biggest struggles 
 
 
 
-THis is where thise course comes in. We will walk through the basics of R and give you the ability to go from not having R on your computer to doing analysis with R in a few days!
+This is where thise course comes in. We will walk through the basics of R and give you the ability to go from not having R on your computer to doing analysis with R in a few days!
 
 
 
